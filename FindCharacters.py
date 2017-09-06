@@ -16,7 +16,6 @@ def FindCharacters(aListOfStrings, LookForChar):
                 break;
     print "new_list = {0}".format(returnList)
 
-
 """
 Here's an example:
 # input
